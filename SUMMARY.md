@@ -11,5 +11,7 @@
   * [进程、线程、协程和Go程](difference-xi-lie/jin-cheng-xian-cheng-xie-cheng-he-go-cheng.md)
 * [数据结构&算法](shu-ju-jie-gou-suan-fa/README.md)
   * [动态规划](shu-ju-jie-gou-suan-fa/dong-tai-gui-hua.md)
-* [系统设计](xi-tong-she-ji.md)
+* [系统设计](xi-tong-she-ji/README.md)
+  * [短链服务](xi-tong-she-ji/duan-lian-fu-wu.md)
+* [读书笔记](du-shu-bi-ji.md)
 

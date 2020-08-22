@@ -1,6 +1,7 @@
 # Table of contents
 
 * [开篇词](README.md)
+* [短链服务](duan-lian-fu-wu.md)
 * [What系列](what-xi-lie/README.md)
   * [跳表](what-xi-lie/tiao-biao.md)
 * [How系列](how-xi-lie/README.md)
